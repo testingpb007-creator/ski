@@ -1,0 +1,69 @@
+================================================================================
+                SKILLFORGE AI - HACKATHON JUDGING PITCH
+================================================================================
+
+PROBLEM:
+Standard career-prep tools operate in silos. Resume builders check keywords, 
+roadmaps show generic courses, and mock interviews test isolated verbal skills. 
+None of these tools talk to each other. As a result, students don't know where 
+they actually stand, and recruiters receive resumes that fail basic screening.
+
+SOLUTION:
+SkillForge AI -- The first unified, AI-driven Employability & Career Readiness 
+Engine. We loop roadmaps, training scores, voice-based mock interviews, and 
+resume writing into a single, cohesive feedback loop.
+
+================================================================================
+THE WINNING CORE FEATURE & USP: THE CAREER READINESS INDEX (CRI)
+================================================================================
+Unlike standard resume editors that guess ATS keywords, our "Employer Perspective 
+Engine" evaluates the student's *entire profile* dynamically:
+1. Technical quiz scores from the Training Center.
+2. STAR-method scores from the voice-enabled AI Mock Interview simulator.
+3. Resume length, density, active verb usage, and graduation milestones.
+
+THE OUTPUT: A weighted, diagnostic Career Readiness Index (0-100) scoring 6 core 
+dimensions:
+- Technical Skills
+- Project Experience
+- Industry Exposure
+- Communication Skills
+- Problem Solving Ability
+- Resume Strength
+
+The student immediately knows their rating (e.g. "Startup Ready" vs. "Ready for 
+Big Tech") and receives an interactive checklist of the Top 10 Recruiter Risk 
+Factors they need to check off to become hireable.
+
+================================================================================
+HOW IT WORKS (THE END-TO-END FLOW)
+================================================================================
+1. ONBOARDING: Student inputs branch, college, GPA, and target sector.
+2. ROADMAPS: An AI-generated, color-coded learning path maps specific subjects, 
+   required skills, capstone projects, and recruiter career relevance.
+3. TRAINING & INTERVIEWS: Student takes technical training exams and speaks 
+   with domain-specific AI Interview mentors using standard WebSpeech voice input.
+4. PORTFOLIO BUILDER: An interactive A4 paper builder tracks ATS formatting and 
+   lets students chat with an AI writing coach.
+5. READINESS DIAGNOSTICS: Promoting the diagnostics to a first-class main tab 
+   lets students see real-time probability dials (Resume Shortlisting % & 
+   Interview Selection %) and check off action plans.
+
+================================================================================
+WHY SKILLFORGE AI WINS (OUR USP)
+================================================================================
+- FULL INTEGRATION: If a student retakes a technical exam or adds metrics to 
+  their resume, their Career Readiness Index and selection probability dials 
+  update instantly. Missing keywords are flagged automatically.
+- corporate-READY DESIGN: Dressed in a dark navy and teal design language 
+  with custom Base64 tech presets and radial gauges.
+- ZERO CONFIGURATION: Fully functional offline mode using heuristic logic 
+  and mock Supabase LocalStorage triggers.
+
+================================================================================
+JUDGE-FRIENDLY TALKING POINT
+================================================================================
+"We don't just build resumes -- we forge job-ready candidates. SkillForge AI is 
+the single source of truth for student readiness, closing the gap between 
+college syllabus checklists and real hiring bars."
+================================================================================
